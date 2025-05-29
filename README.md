@@ -6,7 +6,8 @@
 > ✅ Self-play trained | Neural net guided | MCTS driven  
 > 🧠 Similar in spirit to AlphaZero / Leela Chess
 
-![Sample Game](https://github.com/user-attachments/assets/64cf80f3-5472-41f9-a88f-0837634d0787)
+<img width="456" alt="image" src="https://github.com/user-attachments/assets/e96bee46-4092-4728-a70b-8cd0b595c35e" />
+
 
 ---
 
