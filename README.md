@@ -26,7 +26,7 @@
 
 > Chess, when played perfectly, is a draw — though this match was not perfect, it reflects the engine's strategic depth.
 
-🎮 [View PGN and game details](https://github.com/user-attachments/assets/07bf209c-43db-448d-8692-9f28efcbb79c)
+🎮 https://github.com/user-attachments/assets/07bf209c-43db-448d-8692-9f28efcbb79c
 
 ---
 
