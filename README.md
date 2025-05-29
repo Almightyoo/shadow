@@ -1,12 +1,10 @@
-# ♟️ Shadow - Neural Network Guided Chess Engine
+<img width="456" alt="image" src="https://github.com/user-attachments/assets/9b3831c0-4f9c-4fcd-a298-ba4fdc237bb0" /># ♟️ Shadow - Neural Network Guided Chess Engine
 
 **Shadow** is a neural network-based chess engine inspired by AlphaZero and Leela Chess. It combines the power of **Monte Carlo Tree Search (MCTS)** with deep learning to play strong, creative, and human-like chess.
 
 > 🔥 Estimated strength: ~2500 Elo on Chess.com  
-> ✅ Self-play trained | Neural net guided | MCTS driven  
 > 🧠 Similar in spirit to AlphaZero / Leela Chess
 
-<img width="456" alt="image" src="https://github.com/user-attachments/assets/e96bee46-4092-4728-a70b-8cd0b595c35e" />
 
 
 ---
@@ -26,7 +24,14 @@
 
 > Chess, when played perfectly, is a draw — though this match was not perfect, it reflects the engine's strategic depth.
 
-🎮 https://github.com/user-attachments/assets/07bf209c-43db-448d-8692-9f28efcbb79c
+
+https://github.com/user-attachments/assets/270a28c8-97bc-483d-bb39-e01faa371ee1
+
+
+
+
+
+
 
 ---
 
